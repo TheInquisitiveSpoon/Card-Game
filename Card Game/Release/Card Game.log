@@ -1,0 +1,31 @@
+﻿  pch.cpp
+  Card Game.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\card game.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  CardFactory.cpp
+  CCardBless.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\ccardbless.cpp(48): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\ccardbless.cpp(131): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\ccardbless.cpp(76): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\ccardbless.cpp(110): warning C4390: ';': empty controlled statement found; is this the intent?
+  CCardFireball.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\ccardfireball.cpp(49): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+  CCardLightning.cpp
+  CCardMinion.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\ccardminion.cpp(50): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+  CCardVampire.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\ccardvampire.cpp(51): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+  CFileManager.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cfilemanager.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cfilemanager.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  CGameManager.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cgamemanager.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cgamemanager.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cgamemanager.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  CPlayer.cpp
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cplayer.cpp(79): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+  Generating code
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cfilemanager.cpp(61): warning C4715: 'CFileManager::GetFileName': not all control paths return a value
+c:\users\niall\desktop\uni\2nd year\co2402 - advanced programming with c++\assignments\backup\card game\card game\cardfactory.cpp(46): warning C4715: 'NewCard': not all control paths return a value
+  All 761 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Card Game.vcxproj -> C:\Users\Niall\Desktop\UNI\2nd Year\CO2402 - Advanced Programming with C++\Assignments\Backup\Card Game\Release\Card Game.exe
